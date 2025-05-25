@@ -1,7 +1,7 @@
 <H3> Name : CHANDRU SM </H3>
 <H3>Register No: 212223230034 </H3>
 <H3> Experiment 1 </H3>
-<H3>DATE: 16/04/2025 </H3>
+<H3>DATE: 04/03/2025 </H3>
 
 # Implementation of Bayesian Networks
 
